@@ -9,7 +9,7 @@ import java.util.Map;
  * Fall/2023
  */
 
-public class App {
+public class Application {
     public static void main(String[] args) {
         String filePath = "DictionaryWordValuePairs.csv";
         ArchaicDictionary archaicDictionary = new ArchaicDictionary(filePath);
